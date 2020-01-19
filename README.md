@@ -3,5 +3,5 @@
 2. CSS
 3. JavaScript
 4. Git
-5. ~~Bootstrap
-6. ~~jQuery
+5. ~~Bootstrap~~
+6. ~~jQuery~~
